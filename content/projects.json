@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": "diploma-thesis",
+      "title": "Multi-Camera Trajectory Fusion",
+      "description": "Diploma thesis project developing algorithms to merge vehicle trajectories from multiple overlapping camera views into unified traffic flow representations for real-time traffic management.",
+      "image": null,
+      "tags": ["Python", "OpenCV", "YOLO", "Tracking"],
+      "links": {
+        "github": null,
+        "demo": null
+      },
+      "status": "completed",
+      "year": "2025",
+      "featured": true
+    },
+    {
+      "id": "coming-soon",
+      "title": "More Projects Coming Soon",
+      "description": "Additional projects showcasing traffic engineering, computer vision, and software development work will be added here.",
+      "image": null,
+      "tags": [],
+      "links": {},
+      "status": "coming-soon",
+      "featured": true
+    }
+  ]
+}

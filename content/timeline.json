@@ -1,0 +1,124 @@
+{
+  "timeline": [
+    {
+      "period": "Oct 2019 - Nov 2025",
+      "title": "Diploma in Traffic Engineering",
+      "organization": "TU Dresden",
+      "location": "Dresden, Germany",
+      "type": "education",
+      "description": "Specialized in traffic planning and technology with focus on intelligent transportation systems, traffic engineering fundamentals, and modern mobility planning solutions.",
+      "highlights": [
+        "Traffic Planning & Technology specialization",
+        "Traffic Engineering fundamentals",
+        "Modern Mobility planning solutions"
+      ],
+      "side": "left",
+      "current": false
+    },
+    {
+      "period": "Jan 2022 - Sep 2023",
+      "title": "Student Research Assistant",
+      "organization": "TU Dresden",
+      "location": "Dresden, Germany",
+      "type": "work",
+      "description": "Conducted trajectory data analysis and developed synthetic datasets for computer vision research. Built data processing pipelines using R and Python.",
+      "highlights": [
+        "Trajectory data analysis & visualization",
+        "Synthetic CV dataset generation",
+        "R & Python pipeline development"
+      ],
+      "side": "right",
+      "current": false
+    },
+    {
+      "period": "Sep 2023 - Jan 2024",
+      "title": "Traffic Engineering Intern → Part-time",
+      "organization": "platomo GmbH",
+      "location": "Germany",
+      "type": "work",
+      "description": "Transitioned from internship to part-time role. Applied academic knowledge to real-world traffic engineering projects and video-based traffic analysis.",
+      "highlights": [
+        "Deep dive into Python for traffic engineering",
+        "Video-based traffic analysis",
+        "Real-world project application"
+      ],
+      "side": "left",
+      "current": false
+    },
+    {
+      "period": "Feb - Sep 2024",
+      "title": "Student Research Assistant",
+      "organization": "TU Dresden",
+      "location": "Dresden, Germany",
+      "type": "work",
+      "description": "Continued research on computer vision applications in traffic engineering. Advanced work on object detection, tracking algorithms, and trajectory analysis methods.",
+      "highlights": [
+        "Computer vision for traffic",
+        "Object detection & tracking",
+        "Trajectory analysis methods"
+      ],
+      "side": "right",
+      "current": false
+    },
+    {
+      "period": "Sep - Dec 2024",
+      "title": "Exchange Semester - Software Engineering",
+      "organization": "Dankook University",
+      "location": "South Korea",
+      "type": "education",
+      "description": "International exchange focused on software engineering principles, expanding technical skillset beyond traffic domain.",
+      "highlights": [
+        "Software engineering fundamentals",
+        "International academic experience",
+        "Cross-cultural collaboration"
+      ],
+      "side": "left",
+      "current": false
+    },
+    {
+      "period": "Oct 2024 - Nov 2025",
+      "title": "Working Student - Traffic Engineering",
+      "organization": "platomo GmbH",
+      "location": "Germany",
+      "type": "work",
+      "description": "Development and prototyping of computer vision pipelines for traffic analysis. Implemented data driven solution for traffic safety analysis.",
+      "highlights": [
+        "CV calibration pipeline development",
+        "Data driven traffic safety analysis",
+        "Detection & tracking systems"
+      ],
+      "side": "right",
+      "current": false
+    },
+    {
+      "period": "2025",
+      "title": "Diploma Thesis",
+      "organization": "TU Dresden",
+      "location": "Dresden, Germany",
+      "type": "education",
+      "description": "Multi-camera trajectory fusion for traffic management - developed algorithms to merge vehicle trajectories from overlapping camera views into unified traffic flow representations.",
+      "highlights": [
+        "Multi-camera fusion algorithms",
+        "Trajectory stitching & matching",
+        "Traffic flow reconstruction"
+      ],
+      "side": "left",
+      "current": false
+    },
+    {
+      "period": "Nov 2025 - Present",
+      "title": "Traffic Engineer",
+      "organization": "platomo GmbH",
+      "location": "Germany",
+      "type": "work",
+      "description": "Full-time traffic engineer specializing in video-based traffic analysis and multi-camera computer vision solutions. Building scalable systems for automated traffic data collection and safety analysis.",
+      "highlights": [
+        "Video-based traffic analysis",
+        "Multi-camera Computer vision solutions",
+        "Automated data collection systems"
+      ],
+      "side": "right",
+      "current": true
+    }
+  ]
+}
