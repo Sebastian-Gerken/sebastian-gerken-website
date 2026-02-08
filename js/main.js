@@ -19,11 +19,11 @@
       },
       {
         title: 'GeoSpatial Data Scientist',
-        tags: ['QGIS', 'PostGIS', 'Spatial Analysis', 'Mapping']
+        tags: ['QGIS', 'Spatial Analysis', 'Mapping', 'GeoPandas']
       },
       {
         title: 'Software Developer',
-        tags: ['Python', 'R', 'JavaScript', 'Data Pipelines']
+        tags: ['Python', 'R', 'Agentic Coding', 'Data Pipelines']
       }
     ],
     typeSpeed: 70,
